@@ -3871,7 +3871,7 @@ MonoBehaviour:
     lines:
     - Hello, PlayerOne!
     - Im Skeletor!
-    - Baba booey
+    - Baba Booey!
 --- !u!1 &1053694686
 GameObject:
   m_ObjectHideFlags: 0
