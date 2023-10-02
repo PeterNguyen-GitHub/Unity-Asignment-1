@@ -7,4 +7,5 @@ Rough layout of game environment and basic functionality
 
 NOTES: 
 - Interactions with NPC above and below character is bugged
+- making a functioning Build EXE is slightly bugged: Unable to switch scenes in game & unity wont include Ocean scene
 
